@@ -1,6 +1,6 @@
 # Drivable Area Segmentation using DeepLabV3+
 
-This project presents a semantic segmentation model designed to identify drivable zones in road images using the **DeepLabV3+** architecture with various CNN backbones. Developed as part of a Bachelor’s thesis at **Taras Shevchenko National University of Kyiv**, this work was also showcased at the university research conference.
+This project presents a semantic segmentation model designed to identify drivable zones in road images using the **DeepLabV3+** architecture with various CNN backbones. Developed as part of a Bachelor’s thesis at **Taras Shevchenko National University of Kyiv**, this work was also showcased at the [university research conference (page 202)](https://ir.library.knu.ua/entities/publication/536acc65-001e-476b-ad3e-4658ac0614d4).
 
 ## Project Overview
 
